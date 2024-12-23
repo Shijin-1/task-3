@@ -1,0 +1,15 @@
+Python program to print name
+
+name = "Shijin"
+print(f"Hello {name}")
+
+
+create a html file to print name
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<h1>Hello Shijin</h1>
+</body>
+</html>
